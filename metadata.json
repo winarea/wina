@@ -1,0 +1,12 @@
+{
+  "name": "Wina",
+  "symbol": "WNA",
+  "uri": "https://wina.is",
+  "description": "Wina is a decentralized prediction market token, enabling users to bet on sports, forecast crypto prices, and predict global events.",
+  "total_supply": "1000000000",
+  "decimals": 9,
+  "contract_address": "YOUR_SOLANA_TOKEN_CONTRACT_ADDRESS",
+  "website": "https://wina.is",
+  "creator": "Your Team/Company Name",
+  "image": "https://example.com/image_path_or_token_image.png"
+}
