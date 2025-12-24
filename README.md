@@ -65,19 +65,19 @@ Built on **Solana**, **WinArea** offers fast, secure, and low-cost transactions,
 
 ## Allocation Table
 
-| Allocation                            | %   | Exact Amount (CW) | Wallet (Solana)                                                   | Vesting | TGE Unlock | Cliff | Unlock Duration | Frequency |
-|--------------------------------------|----:|------------------:|-------------------------------------------------------------------|:------:|----------:|------:|----------------:|----------|
-| **Initial Liquidity (DEX)**          | 8%  | 800,000,000       | 3zmookaCBEaZnjZh2mctzvaKpJzKGDX3oBnd8UHFVeB3                      | ❌ No  | 100%      | 0     | –               | Instant  |
-| **Liquidity Reserve (Price Control)**| 12% | 1,200,000,000     | Cm7iwwQHUB7DkUavbgMgmpiS8Zj9ME9pcu9sUJ5JagNr                      | ✅ Yes | 0%        | 0     | 24 months       | Monthly  |
-| **Liquidity Management (Ops)**       | 3%  | 300,000,000       | BgrVNYAS7xJRviz1oPJmdrQiRdATzKLwuqb6DaLCfRcP                      | ❌ No  | 100%      | 0     | –               | Unlocked |
-| **Head Manage (FIXED)**              | 1%  | 100,000,000       | 9rh94pJC6aTHC5BfEnvMEXKtycbHQeuKX9SYSjcRWdPB                      | ✅ Yes | 0%        | 0     | 24 months       | Monthly  |
-| **Advertisement / Growth**           | 10% | 1,000,000,000     | 2Lt85tCKHAmtLrWyiFwoML7jo3XaNPHkgUo73GDY5WkV                      | ✅ Yes | 0%        | 0     | 12 months       | Monthly  |
-| **Core Team – Wallet 1**             | 16% | 1,600,000,000     | Hhv3RqjJJyVjLZzpRYZvFJzD5Grh4Sb6VDLomt8eeCmq                      | ✅ Yes | 0%        | 0     | 24 months       | Monthly  |
-| **Core Team – Wallet 2**             | 16% | 1,600,000,000     | F21qLtKR4zqhdGXZvsUe5CsihHjt3DnCsjNtgrnxcSxu                      | ✅ Yes | 0%        | 0     | 24 months       | Monthly  |
-| **Team / Advisors**                  | 6%  | 600,000,000       | waXvDqxW32gBRBd2e2YP3mtkPXSBfBrXRWTJne2zGWj                       | ✅ Yes | 0%        | 0     | 24 months       | Quarterly|
-| **Development / R&D**                | 10% | 1,000,000,000     | 3QwCpaC5Ahth7v8i4XWyZ215BgnYKiRGVdQLE1njCbxE                      | ✅ Yes | 0%        | 0     | 12 months       | Monthly  |
-| **Service Providers**                | 4%  | 400,000,000       | 4LPJXUz7dLqKMqq5mr8dnSTD6ZFE5n6bC61j2oNjTkZp                      | ✅ Yes | 0%        | 0     | 12 months       | Monthly  |
-| **Staking & User Rewards**           | 4%  | 400,000,000       | 9bx2ebG7YrgTWmp6zABfnB6QYKrNJHvwnQ3tx6rriPHa                      | ✅ Yes | 0%        | 0     | 24 months       | Monthly  |
+| Allocation                            | %   | Exact Amount | Wallet (Solana)                                                   | Vesting | TGE Unlock | Cliff | Unlock Duration | Frequency |
+|--------------------------------------|----:|-------------:|-------------------------------------------------------------------|:------:|----------:|------:|----------------:|----------|
+| **Initial Liquidity (DEX)**          | 8%  | 800,000,000  | 3zmookaCBEaZnjZh2mctzvaKpJzKGDX3oBnd8UHFVeB3                      | ❌ No  | 100%      | 0     | –               | Instant  |
+| **Liquidity Reserve (Price Control)**| 12% | 1,200,000,000| Cm7iwwQHUB7DkUavbgMgmpiS8Zj9ME9pcu9sUJ5JagNr                      | ✅ Yes | 0%        | 0     | 24 months       | Monthly  |
+| **Liquidity Management (Ops)**       | 3%  | 300,000,000  | BgrVNYAS7xJRviz1oPJmdrQiRdATzKLwuqb6DaLCfRcP                      | ❌ No  | 100%      | 0     | –               | Unlocked |
+| **Head Manage (FIXED)**              | 1%  | 100,000,000  | 9rh94pJC6aTHC5BfEnvMEXKtycbHQeuKX9SYSjcRWdPB                      | ✅ Yes | 0%        | 0     | 24 months       | Monthly  |
+| **Advertisement / Growth**           | 10% | 1,000,000,000| 2Lt85tCKHAmtLrWyiFwoML7jo3XaNPHkgUo73GDY5WkV                      | ✅ Yes | 0%        | 0     | 12 months       | Monthly  |
+| **Core Team – Wallet 1**             | 16% | 1,600,000,000| Hhv3RqjJJyVjLZzpRYZvFJzD5Grh4Sb6VDLomt8eeCmq                      | ✅ Yes | 0%        | 0     | 24 months       | Monthly  |
+| **Core Team – Wallet 2**             | 16% | 1,600,000,000| F21qLtKR4zqhdGXZvsUe5CsihHjt3DnCsjNtgrnxcSxu                      | ✅ Yes | 0%        | 0     | 24 months       | Monthly  |
+| **Team / Advisors**                  | 11% | 1,100,000,000| waXvDqxW32gBRBd2e2YP3mtkPXSBfBrXRWTJne2zGWj                       | ✅ Yes | 0%        | 0     | 24 months       | Quarterly|
+| **Development / R&D**                | 15% | 1,500,000,000| 3QwCpaC5Ahth7v8i4XWyZ215BgnYKiRGVdQLE1njCbxE                      | ✅ Yes | 0%        | 0     | 12 months       | Monthly  |
+| **Service Providers**                | 4%  | 400,000,000  | 4LPJXUz7dLqKMqq5mr8dnSTD6ZFE5n6bC61j2oNjTkZp                      | ✅ Yes | 0%        | 0     | 12 months       | Monthly  |
+| **Staking & User Rewards**           | 4%  | 400,000,000  | 9bx2ebG7YrgTWmp6zABfnB6QYKrNJHvwnQ3tx6rriPHa                      | ✅ Yes | 0%        | 0     | 24 months       | Monthly  |
 
 ---
 
