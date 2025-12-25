@@ -1,0 +1,154 @@
+{
+  "name": "Win Area",
+  "symbol": "WINA",
+  "description": "Winarea (WINA) is a Solana-based token powering a decentralized prediction market ecosystem. Winarea enables users to participate in markets, staking, rewards, and community-driven growth.",
+  "image": "https://winarea.io/assets/wina.png",
+  "external_url": "https://winarea.io/",
+  "seller_fee_basis_points": 0,
+  "creators": null,
+  "collection": null,
+  "uses": null,
+  "attributes": [
+    { "trait_type": "Blockchain", "value": "Solana" },
+    { "trait_type": "Category", "value": "Prediction Market" },
+    { "trait_type": "Token Standard", "value": "SPL" },
+    { "trait_type": "Total Supply", "value": "10000000000" },
+    { "trait_type": "Decimals", "value": "6" }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://winarea.io/assets/wina.png",
+        "type": "image/png"
+      }
+    ],
+    "tokenomics": {
+      "total_supply": 10000000000,
+      "decimals": 6,
+      "allocations": [
+        {
+          "name": "Initial Liquidity (DEX)",
+          "percent": 8,
+          "amount": 800000000,
+          "wallet": "3zmookaCBEaZnjZh2mctzvaKpJzKGDX3oBnd8UHFVeB3",
+          "vesting": false,
+          "tge_unlock_percent": 100,
+          "cliff_months": 0,
+          "unlock_duration_months": 0,
+          "frequency": "Instant"
+        },
+        {
+          "name": "Liquidity Reserve (Price Control)",
+          "percent": 12,
+          "amount": 1200000000,
+          "wallet": "Cm7iwwQHUB7DkUavbgMgmpiS8Zj9ME9pcu9sUJ5JagNr",
+          "vesting": true,
+          "tge_unlock_percent": 0,
+          "cliff_months": 0,
+          "unlock_duration_months": 24,
+          "frequency": "Monthly"
+        },
+        {
+          "name": "Liquidity Management (Ops)",
+          "percent": 3,
+          "amount": 300000000,
+          "wallet": "BgrVNYAS7xJRviz1oPJmdrQiRdATzKLwuqb6DaLCfRcP",
+          "vesting": false,
+          "tge_unlock_percent": 100,
+          "cliff_months": 0,
+          "unlock_duration_months": 0,
+          "frequency": "Unlocked"
+        },
+        {
+          "name": "Head Manage (FIXED)",
+          "percent": 1,
+          "amount": 100000000,
+          "wallet": "9rh94pJC6aTHC5BfEnvMEXKtycbHQeuKX9SYSjcRWdPB",
+          "vesting": true,
+          "tge_unlock_percent": 0,
+          "cliff_months": 0,
+          "unlock_duration_months": 24,
+          "frequency": "Monthly"
+        },
+        {
+          "name": "Advertisement / Growth",
+          "percent": 10,
+          "amount": 1000000000,
+          "wallet": "2Lt85tCKHAmtLrWyiFwoML7jo3XaNPHkgUo73GDY5WkV",
+          "vesting": true,
+          "tge_unlock_percent": 0,
+          "cliff_months": 0,
+          "unlock_duration_months": 12,
+          "frequency": "Monthly"
+        },
+        {
+          "name": "Core Team – Wallet 1",
+          "percent": 16,
+          "amount": 1600000000,
+          "wallet": "Hhv3RqjJJyVjLZzpRYZvFJzD5Grh4Sb6VDLomt8eeCmq",
+          "vesting": true,
+          "tge_unlock_percent": 0,
+          "cliff_months": 0,
+          "unlock_duration_months": 24,
+          "frequency": "Monthly"
+        },
+        {
+          "name": "Core Team – Wallet 2",
+          "percent": 16,
+          "amount": 1600000000,
+          "wallet": "F21qLtKR4zqhdGXZvsUe5CsihHjt3DnCsjNtgrnxcSxu",
+          "vesting": true,
+          "tge_unlock_percent": 0,
+          "cliff_months": 0,
+          "unlock_duration_months": 24,
+          "frequency": "Monthly"
+        },
+        {
+          "name": "Team / Advisors",
+          "percent": 6,
+          "amount": 600000000,
+          "wallet": "waXvDqxW32gBRBd2e2YP3mtkPXSBfBrXRWTJne2zGWj",
+          "vesting": true,
+          "tge_unlock_percent": 0,
+          "cliff_months": 0,
+          "unlock_duration_months": 24,
+          "frequency": "Quarterly"
+        },
+        {
+          "name": "Development / R&D",
+          "percent": 10,
+          "amount": 1000000000,
+          "wallet": "3QwCpaC5Ahth7v8i4XWyZ215BgnYKiRGVdQLE1njCbxE",
+          "vesting": true,
+          "tge_unlock_percent": 0,
+          "cliff_months": 0,
+          "unlock_duration_months": 12,
+          "frequency": "Monthly"
+        },
+        {
+          "name": "Service Providers",
+          "percent": 4,
+          "amount": 400000000,
+          "wallet": "4LPJXUz7dLqKMqq5mr8dnSTD6ZFE5n6bC61j2oNjTkZp",
+          "vesting": true,
+          "tge_unlock_percent": 0,
+          "cliff_months": 0,
+          "unlock_duration_months": 12,
+          "frequency": "Monthly"
+        },
+        {
+          "name": "Staking & User Rewards",
+          "percent": 4,
+          "amount": 400000000,
+          "wallet": "9bx2ebG7YrgTWmp6zABfnB6QYKrNJHvwnQ3tx6rriPHa",
+          "vesting": true,
+          "tge_unlock_percent": 0,
+          "cliff_months": 0,
+          "unlock_duration_months": 24,
+          "frequency": "Monthly"
+        }
+      ]
+    }
+  }
+}
