@@ -73,7 +73,7 @@ All vesting allocations are enforced on-chain using **Streamflow**. No vested to
 
 | Allocation | % | Exact Amount (WINA) | Wallet (Solana – Holding / Ops) | Streamflow Wallet (Vesting) | Vesting | TGE Unlock | Cliff | Unlock Duration | Frequency |
 |---|---:|---:|---|---|:---:|---:|---:|---|---|
-| **Initial Liquidity (DEX)** | 8% | 800,000,000 | 3zmookaCBEaZnjZh2mctzvaKpJzKGDX3oBnd8UHFVeB3 | — | ❌ No | 100% | 0 | — | Instant |
+| **Initial Liquidity (DEX)** | 8% | 800,000,000 | Fe29bfugpfdagHDanCT3pA5qT4Ti8NArWThNXxXuefjr | — | ❌ No | 100% | 0 | — | Instant |
 | **Liquidity Reserve (Price Control)** | 12% | 1,200,000,000 | Cm7iwwQHUB7DkUavbgMgmpiS8Zj9ME9pcu9sUJ5JagNr | szoqdM4iAqFDgyrVfL1CgLBgw4hbVz65jbtLpcfqk48 | ✅ Yes | 0% | 0 | 24 months | Monthly |
 | **Liquidity Management (Ops)** | 3% | 300,000,000 | BgrVNYAS7xJRviz1oPJmdrQiRdATzKLwuqb6DaLCfRcP | — | ❌ No | 100% | 0 | — | Unlocked |
 | **Head Manage** | 1% | 100,000,000 | 9rh94pJC6aTHC5BfEnvMEXKtycbHQeuKX9SYSjcRWdPB | CrtMxH97ajm876fBD8bv3tat2TQyuMJRoMZsLWJuYNg8 | ✅ Yes | 0% | 0 | 24 months | Monthly |
